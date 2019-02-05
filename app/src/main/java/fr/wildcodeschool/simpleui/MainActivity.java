@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
                 String firstname = editFirstname.getText().toString();
                 String lastname = editLastname.getText().toString();
 
-                Toast.makeText(MainActivity.this, String.format(getString(R.string.welcome_firstname_lastname),
+                Toast.makeText(MainActivity.this, String.format(getString(R.string.congratulation_firstname_lastname),
                         firstname, lastname), Toast.LENGTH_SHORT).show();
             }
         });

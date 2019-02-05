@@ -4,5 +4,5 @@
     <string name="firstname">Firstname</string>
     <string name="lastname">Lastname</string>
     <string name="send">Send</string>
-    <string name="welcome_firstname_lastname">Welcome %s %s</string>
+    <string name="congratulation_firstname_lastname">Congratulation %s %s</string>
 </resources>
